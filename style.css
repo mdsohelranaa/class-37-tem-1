@@ -1,0 +1,128 @@
+
+
+
+.success{
+    padding-top:70px;
+    padding-bottom: 100px;
+}
+
+.text-top{}
+.text-top h6{
+    color:#e73c3e ;
+}
+.text-top h3{}
+.text-top p{
+    color: #666;
+}
+
+.success-text{}
+.success-text h6{
+    color:#e73c3e;
+    padding: 10px 0;
+}
+.success-text h3{
+    padding-bottom: 10px;
+}
+.success-text h3 a{
+    text-decoration: none;
+    color: #111;
+    transition: .5s;
+}
+.success-text p{
+    font-weight: 500;
+    transition: .5s;
+}
+.success-text:hover p{
+    letter-spacing: 1.5px;
+    color: #e73c3e;
+}
+.success-text:hover h3 a {
+    letter-spacing: 0;
+    color: #e73c3e;
+}
+
+
+/* footer-top-section */
+
+.footer-top-section{
+    color: #fff;
+    background-color: #111;
+}
+
+.full-fotter{
+    padding-top: 70px;
+    padding: 70px;
+}
+
+/*  fotter-logo  */
+
+.fotter-sosiol{}
+.fotter-sosiol ul {
+    margin-left: -32px;
+}
+.fotter-sosiol ul li{
+    display: inline-block;
+    font-weight: 500;
+
+}
+.fotter-sosiol ul li a {
+    padding: 5px;
+    color: #fff;
+    font-weight: 500;
+}
+
+
+/* quic-top */
+
+
+
+.quic-list{
+    margin-left: -32px;
+}
+.quic-list ul{}
+.quic-list ul li{
+    list-style: none;
+    padding: 7px;
+     
+}
+.quic-list ul li a{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+    transition: .5s;
+}
+.quic-list ul li a:hover{
+    letter-spacing: 1.5px;
+    color:#e73c3e ;
+}
+
+/* footer-widget */
+
+.footer-widget{}
+.footer-contact-item{
+    margin-bottom: 15px;
+}
+.footer-contact-item span{
+    font-size: 20px;
+}
+.footer-contact-item a{
+    color: #fff;
+    margin-left: 15px;
+    text-decoration: none;
+    font-weight: 500;
+    
+}
+.hr{
+    width: 126%;
+    margin-left: -129px;
+}
+.footer-copyright{
+    padding: 25px;
+}
+.footer-copyright p{}
+.footer-copyright a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+    font-size: 23px;
+}
